@@ -1,5 +1,8 @@
 # supermall-serve
 
-node.js
+#node.js
 
+## Project setup
+```
 npm run serve
+```
